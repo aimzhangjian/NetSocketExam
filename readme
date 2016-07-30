@@ -1,0 +1,7 @@
+第一题：mvn exec:java -Dexec.mainClass="com.hand.Exam21.App" -Dexec.args="arg0 arg1 arg2"
+
+第二题：mvn exec:java -Dexec.mainClass="com.hand.Exam22.App" -Dexec.args="arg0 arg1 arg2"
+       mvn exec:java -Dexec.mainClass="com.hand.Exam22.Clin" -Dexec.args="arg0 arg1 arg2"
+
+第三题：mvn exec:java -Dexec.mainClass="com.hand.Exam23.App" -Dexec.args="arg0 arg1 arg2"
+
